@@ -1,0 +1,67 @@
+Safety:       Risco de causar danos ao desenvolvedor ou usuário (risco de falha)
+Security:     Invasão de privacidade
+IPBL:         Estudo de caso (Interdisciplinar Problem Burning)
+Norma:        Criado por instituições públicas
+Padrão:       Criado por empresas privadas
+Persistência: Business
+API: 
+Cooperativo:  Ajudando não em tempo real
+Colaborativo: Ajudando em tempo real
+Sistema Computacional:   Apenas Software
+Sistema Computadorizado: Hardware + software + Firmeware
+Diferença de software para firmeware:
+Firmeware: Software que virou Hardware, por exemplo: uma tecla
+apenas, numa calculadora, que realize uma operação lógica, ou ainda,
+uma BIOS de computador;
+=============================================================
+Qualidade:      Conformidade com requisitos
+Confiabilidade: Qualidade no tempo de resposta. Exemplo: 
+Segurança:      Confiabilidade no uso (contra falhas)
+Eficiência:     Fazer tudo com perfeição
+Eficácia:       Fazer com eficácia apenas aquilo que precisa ser bem-feito
+=============================================================
+1.1a 1/20
+Padrão de 
+1  = Primeira semana
+1  = Primeiro tempo de apresentação
+a  = arquivo
+1  = Slide atual
+20 = Slides totais
+=============================================================
+Designar matéria com 3 letras: Matéria de graduação, ex.:
+CES-230
+=============================================================
+Foco da matéria de Terça: verificação de qualidade de software
+Foco da matéria de Segunda: Desenvolvimento de sistema embarcado
+Sistema CPU bouding: Sistemas que recebem eventuais entradas e saídas
+
+SETR - Sistema de Projeto Embarcado em Tempo Real
+
+=============================================================
+Política:   O que fazer
+Estratégia: Como fazer e fazer com tática
+Tática: Operacionalização da estratégica (melhor forma de fazer, ou "como fazer o 'como' ")
+
+Estado da arte, da técnica e da prática, equivale a dizer: Política, estratégia e
+operacionalização
+
+Gerente e tomador de decisões:
+Distribuir tarefas e resolver conflitos
+
+OO - Pode ser considerado como "Circuito Integrado do Software" em termos práticos e apenas como exemplo, claro.
+=============================================================
+Alta Coesão: Um software cujo itens, partes ou segmentos sem a dependência de outros itens.
+Um exemplo: Uma variável local e variável global.
+Baixo Acoplamento: Baixa dependência entre si
+=============================================================
+Assessment - Avaliação
+
+Métodos, procedimentos
+Para se avaliar a qualidade de um produto, primeiramente se lista os requisitos
+DEFeitos: Algo defeituoso ocasiona um erro. Um erro não corrigido, gera uma falha
+Problemas e dificuldades
+Quebrar os problemas complexos e problemas menores
+Raciocínio Indutivo: Sintetista de Sistemas
+Racicínio
+
+Lista de exercícios do Cunha: Especificação de Requisitos
